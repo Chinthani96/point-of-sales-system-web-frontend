@@ -1,0 +1,26 @@
+{
+  "name": "web-pos-ui",
+  "version": "1.0.0",
+  "description": "A simple pos system UI",
+  "author": "Ranjith Suranga <suranga@ijse.lk> (ijse.lk)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  },
+  "dependencies": {
+    "admin-lte": "^3.0.5",
+    "sweetalert2": "^10.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranjith-Suranga/web-pos-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ranjith-Suranga/web-pos-ui/issues"
+  },
+  "homepage": "https://github.com/Ranjith-Suranga/web-pos-ui#readme"
+}
