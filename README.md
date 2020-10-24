@@ -16,7 +16,7 @@ Backend of this pos system can be found at: `https://github.com/Chinthani96/poin
 
 `https://github.com/Chinthani96/point-of-sales-system-web-frontend.git`
 
-2. Open it in IntelliJ IDEA
+2. Open it in IntelliJ IDEA / any preferred IDE or an editor.
 
 3. Install all the dependencies
 
