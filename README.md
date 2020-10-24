@@ -1,4 +1,4 @@
-# WEB POS UI
+# Point of Sales System (Web) - Frontend
 
 This is the front end of a web-based pos system developed using the following technologies.
 * HTML
