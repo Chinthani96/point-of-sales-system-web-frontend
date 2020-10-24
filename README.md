@@ -22,6 +22,4 @@ Backend of this pos system can be found at: `https://github.com/Chinthani96/poin
 
 `npm install`
 
-4. Set all the file watchers
-
-You are good to go!
+Now you are good to go!
